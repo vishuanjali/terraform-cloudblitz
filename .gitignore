@@ -1,3 +1,5 @@
 aws
 .terraform
 .terraform.lock.hcl
+awscliv2.zip
+terraform.tfstate.backup
